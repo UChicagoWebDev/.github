@@ -1,5 +1,5 @@
 # Web Development
-### UChicago MPCS 52553 - Spring 2024
+### UChicago MPCS 52553 - Autumn 2024
 
 The syllabus and other course materials on on [Canvas](https://canvas.uchicago.edu/courses/57047).
 
@@ -7,6 +7,6 @@ To sumbit an assignment, follow the GitHub Classroom link on Canvas, which will 
 
 
 Join the class on Slack in the #web-development channel on [the UChicago CS Slack](
-https://join.slack.com/t/cs-uchicago/shared_invite/zt-2fbxbg9g2-XcXiT6S7gcgMjIRMQblZSw). Sign up with yourcnetid@**cs.**uchicago.edu. If you're enrolled in the course, you have an @cs email alias already created automatically.
+https://join.slack.com/t/cs-uchicago/shared_invite/zt-2qcbdztj5-C0ein07pn5a3BGaTaXyiog). Sign up with yourcnetid@**cs.**uchicago.edu. If you're enrolled in the course, you have an @cs email alias already created automatically.
 
 Lecture notes and in-class examples are on GitHub at https://github.com/UChicagoWebDev/course_materials and deployed live at https://uchicagowebdev.com/
